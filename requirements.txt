@@ -34,7 +34,7 @@ nbformat==5.0.4
 networkx==2.4
 -e git+https://github.com/tgebhart/nn_homology.git@c2bef992b9ace37f7cc985a89d94a2ded3841c68#egg=nn_homology
 notebook==6.0.3
-numpy==1.18.1
+numpy==1.22.0
 pandocfilters==1.4.2
 parso==0.6.2
 persim==0.1.2
